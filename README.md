@@ -16,4 +16,6 @@ However, it continues to say:
 
 So, seems to me that I could just use `ob_flush()` all of the time. However, I get strange results when I do that. Could someone explain in simple terms what's going on here?
 
+More knowlege for visit [Go](https://stackoverflow.com/questions/4191385/php-buffer-ob-flush-vs-flush)
+
 
