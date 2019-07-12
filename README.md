@@ -1,4 +1,4 @@
-# php
+# PHP
 
 ### What's the difference between `ob_flush()` and `flush()` and why must I call both?
 
